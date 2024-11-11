@@ -1,0 +1,5 @@
+"membership_type","rideable_type","count"
+"casual","classic_bike",97636
+"casual","electric_bike",61719
+"member","classic_bike",182392
+"member","electric_bike",107367

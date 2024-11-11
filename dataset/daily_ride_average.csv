@@ -1,0 +1,15 @@
+"Day","membership_type","avg_dist"
+"Monday","casual",0.353801729853479
+"Monday","member",0.187518819846279
+"Tuesday","casual",0.311229477219165
+"Tuesday","member",0.190190490973221
+"Wednesday","casual",0.301908899491475
+"Wednesday","member",0.19075072713611
+"Thursday","casual",0.311167089053968
+"Thursday","member",0.188192832433173
+"Friday","casual",0.368427833432198
+"Friday","member",0.198974590681059
+"Saturday","casual",0.439046325402304
+"Saturday","member",0.22367720613633
+"Sunday","casual",0.455725314898009
+"Sunday","member",0.225160823734265
