@@ -1,8 +1,8 @@
 ---
-title: "Cyclistic 1.1"
-author: "Andhika Nurrafli Putra"
-date: "2024-11-30"
-output: html_document
+Title: "Cyclistic 1.1"
+Author: "Andhika Nurrafli Putra"
+Date: "2024-11-30"
+Output: html_document
 ---
 
 ## Dataset
