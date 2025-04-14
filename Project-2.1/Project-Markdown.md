@@ -332,7 +332,7 @@ usage_base_on_dow <- ggplot(summary_usage, aes(x = day_of_week_label, y = total_
 usage_base_on_dow
 ```
 
-![](https://drive.google.com/file/d/1hndA9v7Qlsk7Eywlb9FOi9Zm8c6VkXI0/view?usp=sharing)<!-- -->
+![](Project-2.1/datasets/Total Trips base on Days and Users.png)<!-- -->
 
 Base on the visualization we can see that:  
 **1. Member users tend to commute by bike**  
