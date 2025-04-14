@@ -332,7 +332,7 @@ usage_base_on_dow <- ggplot(summary_usage, aes(x = day_of_week_label, y = total_
 usage_base_on_dow
 ```
 
-![](Project-Markdown_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](https://drive.google.com/file/d/1hndA9v7Qlsk7Eywlb9FOi9Zm8c6VkXI0/view?usp=sharing)<!-- -->
 
 Base on the visualization we can see that:  
 **1. Member users tend to commute by bike**  
@@ -410,7 +410,7 @@ casual_monthly_usage_viz <- ggplot(casual_monthly_usage, aes(x = month, y = tota
 casual_monthly_usage_viz
 ```
 
-![](Project-Markdown_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](https://drive.google.com/file/d/1NM5Tcnpy9KMuUWNcacP7JBdtcyriSRPU/view?usp=sharing)<!-- -->
 
 We now can check that how the numbers of casual user usage patterns
 based on the visualization.
@@ -433,7 +433,7 @@ use bikes for leisure or sightseeing.
 usage_base_on_dow
 ```
 
-![](Project-Markdown_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](https://drive.google.com/file/d/1yErTsKSvq71njw9TlYWE5G0mOkGlUSyT/view?usp=sharing)<!-- -->
 
 **2. Why Casual users want to buy membership** First thing we thought is
 casual user become a membership is because they need to commute
