@@ -577,3 +577,5 @@ promo_data_viz
 ```
 
 ![](Project-Markdown_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+
+We can out our promotion based on the timeline that I have provided, that way we can hope that the promotions....
