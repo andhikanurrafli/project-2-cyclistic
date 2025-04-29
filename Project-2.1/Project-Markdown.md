@@ -283,7 +283,7 @@ data_no_outliers <- data_no_outliers %>%
 
 Finally we finish transforming some column, add columns and let’s we
 move to the next step which we’re gonna explore the data.  
-\### Exploring the data
+### Exploring the data
 
 After we’re cleaning the data and finally we can comfortably to explore
 the data looking for the business task and finds out what we can do with
@@ -332,7 +332,7 @@ usage_base_on_dow <- ggplot(summary_usage, aes(x = day_of_week_label, y = total_
 usage_base_on_dow
 ```
 
-![](Project-2.1/datasets/Total Trips base on Days and Users.png)<!-- -->
+![https://drive.google.com/file/d/1yErTsKSvq71njw9TlYWE5G0mOkGlUSyT/view?usp=sharing](https://github.com/andhikanurrafli/project-2-cyclistic/blob/main/Project-2.1/datasets/Total%20Trips%20base%20on%20Days%20and%20Users.png?raw=true)<!-- -->
 
 Base on the visualization we can see that:  
 **1. Member users tend to commute by bike**  
@@ -410,7 +410,7 @@ casual_monthly_usage_viz <- ggplot(casual_monthly_usage, aes(x = month, y = tota
 casual_monthly_usage_viz
 ```
 
-![](https://drive.google.com/file/d/1NM5Tcnpy9KMuUWNcacP7JBdtcyriSRPU/view?usp=sharing)<!-- -->
+![Project-Markdown_files/figure-gfm/unnamed-chunk-11-1.png](https://github.com/andhikanurrafli/project-2-cyclistic/blob/main/Project-2.1/datasets/Monthly%20Bike%20Usage%20by%20Casual%20Users.png?raw=true)<!-- -->
 
 We now can check that how the numbers of casual user usage patterns
 based on the visualization.
@@ -433,7 +433,7 @@ use bikes for leisure or sightseeing.
 usage_base_on_dow
 ```
 
-![](https://drive.google.com/file/d/1yErTsKSvq71njw9TlYWE5G0mOkGlUSyT/view?usp=sharing)<!-- -->
+
 
 **2. Why Casual users want to buy membership** First thing we thought is
 casual user become a membership is because they need to commute
@@ -486,8 +486,8 @@ visualization.
 ``` r
 casual_monthly_usage_viz
 ```
-
-![](Project-Markdown_files/figure-gfm/unnamed-chunk-11-1.png)<!-- --> We
+![Project-Markdown_files/figure-gfm/unnamed-chunk-11-1.png](https://github.com/andhikanurrafli/project-2-cyclistic/blob/main/Project-2.1/datasets/Monthly%20Bike%20Usage%20by%20Casual%20Users.png?raw=true)<!-- -->
+ We
 can see the ups and downs of the number of casual users, we can see why.
 The visualization is clearly a seasonal pattern over the course of 2020
 and 2021. Usage are tends to peak in warmer seasons which is in spring
@@ -576,6 +576,6 @@ promo_data_viz <- ggplot(casual_monthly_usage, aes(x = month, y = total_trips)) 
 promo_data_viz
 ```
 
-![](Project-Markdown_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![Project-2.1/datasets/Rplot.png](https://github.com/andhikanurrafli/project-2-cyclistic/blob/main/Project-2.1/datasets/Rplot.png?raw=true)<!-- -->
 
-We can out our promotion based on the timeline that I have provided, that way we can hope that the promotions....
+The image above is a map of where and when we will carry out the promotion that we discussed earlier. With these results, it is hoped that it will increase profits from using Divvy Bikes and will also increase the number of memberships from before.
