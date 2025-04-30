@@ -35,7 +35,7 @@ First thing first to do an RStudio, I will usually load the packages
 that I needed to. So here is one the first packages I need to load.
 
 ``` r
-library("arrow") # to load Parquet data that I have converted from CSV(s) before
+library("arrow") # to load Parquet data that I have converted from CSV(s)
 ```
 
     ## Warning: package 'arrow' was built under R version 4.4.3
